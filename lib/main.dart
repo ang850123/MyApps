@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Barra App'),
         ),
         body: const Center(
-          child: Text('Mi primera aplicación 5 commit!!!'),
+          child: Text('Mi primera aplicación 6 commit!!!'),
         ),
       ),
     );
